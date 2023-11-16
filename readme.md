@@ -19,8 +19,6 @@
 
 :arrows_counterclockwise: **Async/Await**: Refactored callback-based and promise-based code to use async/await for better code readability and maintainability.
 
-:tada: **Aggregation**: Aggregation Group is used to fetch countries in Entity Collection 
-
 :key: **Environment Setup**: Utilized environment variables to configure the application, following best practices to keep sensitive data secure.
 
 ## Prerequisites
